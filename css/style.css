@@ -287,6 +287,46 @@
   .white-text{
     color: #fff;
   }
+  .us-line {
+    display: inline-block;
+    text-align: center;
+    width: 40px;
+    height: 2px;
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 20px;
+}
 
+  /* ================================================================================ */
+  /* Footer */
+  /* ================================================================================ */
 
+  .socic {
+    text-align: center; 
+    background-color: #111;
+  }
+  .qq {
+    opacity: 1;
+    margin: 0.5em;
+    color: #fff;
+  }
 
+  .fa-facebook:hover {
+    color: #3B5998;
+  }
+
+  .fa-twitter:hover {
+    color: #55acee;
+  }
+
+  .fa-youtube:hover {
+    color: #E62117;
+  }
+  .fa-instagram:hover{
+    color: #C72F9B;
+  }
+  .fa-snapchat:hover{
+    color: #FFFC00;
+  }
+  .fa-google-plus:hover{
+    color:#EB4235;
+  }
