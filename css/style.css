@@ -354,7 +354,7 @@
       width: 450px;
       height: 150px;
       margin: 20px;
-      background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GDC_onlywayaround.jpg/300px-GDC_onlywayaround.jpg) no-repeat center center;
+      background: url(http://www.freakmusic.co.uk/stat/redesign/redone/static/responsive/images/freak-cats/pop.jpg) no-repeat center center;
       background-size: cover;
     }
     .card-primary:hover {
@@ -379,6 +379,9 @@
       text-align: center;
       vertical-align: middle;
       color: #fff;
+    }
+    .event-card-text{
+      font-weight: 900;
     }
 
 
