@@ -10,6 +10,9 @@ body {
 	background-size: cover;
 	-o-background-size: cover;
 }
+a{
+	text-decoration: none !important ;
+}
 div {
 	display: inline-block;
 	line-height: 1;
@@ -32,19 +35,21 @@ span {
 	display: inline-block;
 	width: auto;
 	padding: 8px;
-	color: #EF5B30;
-	border: 2px solid #EF5B30;
+	color: #FC0D1B;
+	border: 2px solid #FC0D1B;
 	border-radius: 5px;
 	text-align: center;
 	outline: none;
 	text-decoration: none;
 	background-color: transparent;
 	font-size: 18px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 .ghost-button-rounded-corners:hover,
 .ghost-button-rounded-corners:active {
-	background-color: #fff;
-	color: #000;
+	background-color: transparent;
+	color: #FFF;
 }
 a{
 	text-decoration: none;
